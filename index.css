@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Canela';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(207, 51, 215);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
